@@ -9,3 +9,10 @@ Se propone la creación de una solución sobre la Onesait Platform que consista 
 •	Gadgets con la distribución de la población por sexo, franja etaria, nivel académico, ocupación, nacionalidad, categorías censales (hogares unipersonales, sin familia, con 1 hijo...), población en municipios o ciudades...
 •	Comparativas entre los periodos pre-covid y post-covid
 Todo esto facilitará la tarea de identificar a los colectivos más vulnerables para poder planificar mejor las ayudas en caso de rebrote o centrar los esfuerzos en determinadas zonas.
+
+Listado de elementos creados en la plataforma para el desarrollo de la idea:
+- Ontología para la visualización: datosGuadalajara
+- Ontología resultados encuestas: IndiceVulnerabilidad_SurveyResults
+- Datasource: datos_guadalajara
+- Dashboard de encuesta: IndiceVulnerabilidad_Survey (https://lab.onesaitplatform.com/controlpanel/dashboards/view/08647e87-4569-4de8-804c-bc7096be5b6d)
+- Dashboard de visualización: prueba_innovators_vulnerabilidad (https://lab.onesaitplatform.com/controlpanel/dashboards/view/b22b0031-1521-46ce-a2f8-5dcae4b81b6c)
